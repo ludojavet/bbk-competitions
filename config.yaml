@@ -1,0 +1,14 @@
+cookie:
+  expiry_days: 30
+  key: qjYbSwPxTbWsHrvS
+  name: streamlit_auth
+credentials:
+  usernames:
+    bbk:
+      email: builtbykids@hotmail.com
+      logged_in: true
+      name: Built by Kids
+      password: $2b$12$iHbghcXRXysacWjqCwsCR.HfoxicaVJ3.tzrk5raj43rTuuvZJC6C
+preauthorized:
+  emails:
+  - melsby@gmail.com

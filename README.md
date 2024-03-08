@@ -1,1 +1,1 @@
-# bbk-competition
+# bbk-competitions
